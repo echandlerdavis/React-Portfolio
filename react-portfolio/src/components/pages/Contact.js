@@ -44,6 +44,7 @@ function Contact(){
    
    return(
    <section className="card">
+    <h2>Contact</h2>
     <form className="form">
         <input
           value={email}
@@ -59,13 +60,13 @@ function Contact(){
           type="text"
           placeholder="name"
         />
-        <input
+        <textarea
           value={message}
           name="message"
           onChange={handleInputChange}
           type="text"
           placeholder="Message"
-        />
+        ></textarea>
         <button type="button" onClick={handleFormSubmit}>Submit</button>
       </form>
       {errorMessage && (

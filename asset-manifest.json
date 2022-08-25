@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.60090e27.css",
+    "main.js": "/React-Portfolio/static/js/main.45370ea4.js",
+    "static/media/Me.jpg": "/React-Portfolio/static/media/Me.a17dffab88791887ed94.jpg",
+    "static/media/RecipeSaver.png": "/React-Portfolio/static/media/RecipeSaver.54e8bfca5197dfabcdce.png",
+    "static/media/PetfinderProject.png": "/React-Portfolio/static/media/PetfinderProject.0933dfa24eda5ae62503.png",
+    "static/media/Horiseon.png": "/React-Portfolio/static/media/Horiseon.91544d2489a8c802ce0a.png",
+    "static/media/WorkDayScheduler.png": "/React-Portfolio/static/media/WorkDayScheduler.3f554b149f064afd2843.png",
+    "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.d610ad13e290c157a858.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.60090e27.css.map": "/React-Portfolio/static/css/main.60090e27.css.map",
+    "main.45370ea4.js.map": "/React-Portfolio/static/js/main.45370ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60090e27.css",
+    "static/js/main.45370ea4.js"
+  ]
+}

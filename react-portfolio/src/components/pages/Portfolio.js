@@ -1,10 +1,10 @@
 import React from "react";
-import noteTaker from "./NoteTaker.png";
-import petFinder from "./PetfinderProject.png";
-import recipeSaver from "./RecipeSaver.png";
-import workdayScheduler from "./WorkDayScheduler.png";
-import horiseon from "./Horiseon.png"
-import "./style.css"
+import noteTaker from "../../images/NoteTaker.png";
+import petFinder from "../../images/PetfinderProject.png";
+import recipeSaver from "../../images/RecipeSaver.png";
+import workdayScheduler from "../../images/WorkDayScheduler.png";
+import horiseon from "../../images/Horiseon.png"
+
 
 function Portfolio(){
     return (
